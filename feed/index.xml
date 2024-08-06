@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolio</title>
+	<atom:link href="https://ricarda-wegmann.art/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ricarda-wegmann.art/</link>
+	<description>Ricarda Wegmann &#124; Yumenoki</description>
+	<lastBuildDate>Mon, 29 Jul 2024 20:13:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://ricarda-wegmann.art/wp-content/uploads/2024/07/cropped-Screenshot-2024-03-20-200456-32x32.png</url>
+	<title>Portfolio</title>
+	<link>https://ricarda-wegmann.art/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pioneers of Pagonia</title>
+		<link>https://ricarda-wegmann.art/pioneers-of-pagonia/</link>
+		
+		<dc:creator><![CDATA[Ricarda Wegmann]]></dc:creator>
+		<pubDate>Wed, 24 Jul 2024 18:12:53 +0000</pubDate>
+				<category><![CDATA[Concept]]></category>
+		<category><![CDATA[Internship]]></category>
+		<category><![CDATA[Pioneers of Pagonia]]></category>
+		<guid isPermaLink="false">https://ricarda-wegmann.art/?p=805</guid>
+
+					<description><![CDATA[Back]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="805" class="elementor elementor-805">
+				<div class="elementor-element elementor-element-9e5f32e e-con-full e-flex e-con e-parent" data-id="9e5f32e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				</div>
+		<div class="elementor-element elementor-element-4a11c77 e-con-full e-flex elementor-invisible e-con e-parent" data-id="4a11c77" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+				<div class="elementor-element elementor-element-6d79bda elementor-invisible elementor-widget elementor-widget-image" data-id="6d79bda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											<a href="https://www.envision-entertainment.de/">
+							<img decoding="async" width="150" height="150" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Envision-Entertainment_Logo-150x150.png" class="elementor-animation-bob attachment-thumbnail size-thumbnail wp-image-870" alt="" />								</a>
+													</div>
+				</div>
+				<div class="elementor-element elementor-element-f8cc45c elementor-invisible elementor-widget elementor-widget-image" data-id="f8cc45c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+														<a href="https://pioneersofpagonia.com/index.php?lang=en-US">
+							<img decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="elementor-animation-bob attachment-medium size-medium wp-image-869" alt="" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-e0935b4 e-con-full e-flex e-con e-parent" data-id="e0935b4" data-element_type="container" data-settings="{&quot;shape_divider_bottom&quot;:&quot;clouds&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283.5 27.8" preserveAspectRatio="xMidYMax slice">
+	<path class="elementor-shape-fill" d="M265.8 3.5c-10.9 0-15.9 6.2-15.9 6.2s-3.6-3.5-9.2-.9c-9.1 4.1-4.4 13.4-4.4 13.4s-1.2.2-1.9.9c-.6.7-.5 1.9-.5 1.9s-1-.5-2.3-.2c-1.3.3-1.6 1.4-1.6 1.4s.4-3.4-1.5-5c-3.9-3.4-8.3-.2-8.3-.2s-.6-.7-.9-.9c-.4-.2-1.2-.2-1.2-.2s-4.4-3.6-11.5-2.6-10.4 7.9-10.4 7.9-.5-3.3-3.9-4.9c-4.8-2.4-7.4 0-7.4 0s2.4-4.1-1.9-6.4-6.2 1.2-6.2 1.2-.9-.5-2.1-.5-2.3 1.1-2.3 1.1.1-.7-1.1-1.1c-1.2-.4-2 0-2 0s3.6-6.8-3.5-8.9c-6-1.8-7.9 2.6-8.4 4-.1-.3-.4-.7-.9-1.1-1-.7-1.3-.5-1.3-.5s1-4-1.7-5.2c-2.7-1.2-4.2 1.1-4.2 1.1s-3.1-1-5.7 1.4-2.1 5.5-2.1 5.5-.9 0-2.1.7-1.4 1.7-1.4 1.7-1.7-1.2-4.3-1.2c-2.6 0-4.5 1.2-4.5 1.2s-.7-1.5-2.8-2.4c-2.1-.9-4 0-4 0s2.6-5.9-4.7-9c-7.3-3.1-12.6 3.3-12.6 3.3s-.9 0-1.9.2c-.9.2-1.5.9-1.5.9S99.4 3 94.9 3.9c-4.5.9-5.7 5.7-5.7 5.7s-2.8-5-12.3-3.9-11.1 6-11.1 6-1.2-1.4-4-.7c-.8.2-1.3.5-1.8.9-.9-2.1-2.7-4.9-6.2-4.4-3.2.4-4 2.2-4 2.2s-.5-.7-1.2-.7h-1.4s-.5-.9-1.7-1.4-2.4 0-2.4 0-2.4-1.2-4.7 0-3.1 4.1-3.1 4.1-1.7-1.4-3.6-.7c-1.9.7-1.9 2.8-1.9 2.8s-.5-.5-1.7-.2c-1.2.2-1.4.7-1.4.7s-.7-2.3-2.8-2.8c-2.1-.5-4.3.2-4.3.2s-1.7-5-11.1-6c-3.8-.4-6.6.2-8.5 1v21.2h283.5V11.1c-.9.2-1.6.4-1.6.4s-5.2-8-16.1-8z"/>
+</svg>
+		</div>
+				</div>
+		<div class="elementor-element elementor-element-195c7a3 e-con-full e-flex e-con e-parent" data-id="195c7a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;curve&quot;,&quot;shape_divider_top_negative&quot;:&quot;yes&quot;}">
+				<div class="elementor-shape elementor-shape-top" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M500,97C126.7,96.3,0.8,19.8,0,0v100l1000,0V1C1000,19.4,873.3,97.8,500,97z"/>
+</svg>		</div>
+		<div class="elementor-element elementor-element-f0c8ffe e-grid e-con-boxed e-con e-child" data-id="f0c8ffe" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-9b042c0 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="9b042c0" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img fetchpriority="high" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png" class="image wp-image-896  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e1bd55 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="8e1bd55" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png" class="image wp-image-878  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b36c4b omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="7b36c4b" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png" class="image wp-image-877  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cbbb9b3 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="cbbb9b3" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png" class="image wp-image-876  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ef669db omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ef669db" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png" class="image wp-image-875  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ede946a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ede946a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="image wp-image-869  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5bdcf4c omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="5bdcf4c" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail-300x199.png" class="image wp-image-856  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/werewolf_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c5ac4e omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="3c5ac4e" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="image wp-image-869  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c5a5ec2 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="c5a5ec2" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png" class="image wp-image-853  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b8622a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="6b8622a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-300x199.png" class="image wp-image-849  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-acc683d omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="acc683d" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png" class="image wp-image-855  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-21abdf6 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="21abdf6" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png" class="image wp-image-851  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-820dfb9 elementor-widget elementor-widget-elementskit-button" data-id="820dfb9" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="https://ricarda-wegmann.art/#concept" class="elementskit-btn  whitespace--normal" id="">
+					<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-left" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256c0 137 111 248 248 248s248-111 248-248S393 8 256 8 8 119 8 256zm448 0c0 110.5-89.5 200-200 200S56 366.5 56 256 145.5 56 256 56s200 89.5 200 200zm-72-20v40c0 6.6-5.4 12-12 12H256v67c0 10.7-12.9 16-20.5 8.5l-99-99c-4.7-4.7-4.7-12.3 0-17l99-99c7.6-7.6 20.5-2.2 20.5 8.5v67h116c6.6 0 12 5.4 12 12z"></path></svg>Back				</a>
+					</div>
+        </div>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f703edd e-flex e-con-boxed e-con e-parent" data-id="f703edd" data-element_type="container">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
