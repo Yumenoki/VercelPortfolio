@@ -12,7 +12,7 @@
 	<atom:link href="https://ricarda-wegmann.art/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ricarda-wegmann.art/</link>
 	<description>Ricarda Wegmann &#124; Yumenoki</description>
-	<lastBuildDate>Mon, 29 Jul 2024 20:13:46 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Aug 2024 16:56:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,262 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quackaneers</title>
+		<link>https://ricarda-wegmann.art/quackaneers/</link>
+		
+		<dc:creator><![CDATA[Yume]]></dc:creator>
+		<pubDate>Wed, 07 Aug 2024 15:30:06 +0000</pubDate>
+				<category><![CDATA[Concept]]></category>
+		<category><![CDATA[Internship]]></category>
+		<category><![CDATA[Pioneers of Pagonia]]></category>
+		<guid isPermaLink="false">https://ricarda-wegmann.art/?p=1327</guid>
+
+					<description><![CDATA[What is Quackaneers? My bachelor&#8217;s project Quackaneers is a multiplayer PC game made in Unity, where players of one team try to accumulate a larger pile of treasure within a given time than the opposing team. The team with the most treasure wins the game. The players control pirate ducks, who can use their beaks [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1327" class="elementor elementor-1327">
+				<div class="elementor-element elementor-element-9e5f32e e-con-full e-flex e-con e-parent" data-id="9e5f32e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-82776fc elementor-widget__width-auto e-transform elementor-widget elementor-widget-image" data-id="82776fc" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.90000000000000002,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>										<img fetchpriority="high" decoding="async" width="1024" height="122" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-1024x122.png" class="attachment-large size-large wp-image-1332" alt="" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-1024x122.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-300x36.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-768x92.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-1536x184.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/QuackaneersHeader-e1723045017747-2048x245.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />													</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4a11c77 e-con-full animated-fast e-flex elementor-invisible e-con e-parent" data-id="4a11c77" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+				</div>
+		<div class="elementor-element elementor-element-e0935b4 e-con-full e-flex e-con e-parent" data-id="e0935b4" data-element_type="container" data-settings="{&quot;shape_divider_bottom&quot;:&quot;waves&quot;,&quot;shape_divider_bottom_negative&quot;:&quot;yes&quot;}">
+				<div class="elementor-shape elementor-shape-bottom" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M790.5,93.1c-59.3-5.3-116.8-18-192.6-50c-29.6-12.7-76.9-31-100.5-35.9c-23.6-4.9-52.6-7.8-75.5-5.3
+	c-10.2,1.1-22.6,1.4-50.1,7.4c-27.2,6.3-58.2,16.6-79.4,24.7c-41.3,15.9-94.9,21.9-134,22.6C72,58.2,0,25.8,0,25.8V100h1000V65.3
+	c0,0-51.5,19.4-106.2,25.7C839.5,97,814.1,95.2,790.5,93.1z"/>
+</svg>		</div>
+				</div>
+		<div class="elementor-element elementor-element-195c7a3 e-con-full e-flex e-con e-parent" data-id="195c7a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;curve&quot;,&quot;shape_divider_top_negative&quot;:&quot;yes&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
+				<div class="elementor-shape elementor-shape-top" data-negative="true">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M500,97C126.7,96.3,0.8,19.8,0,0v100l1000,0V1C1000,19.4,873.3,97.8,500,97z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+		<div class="elementor-element elementor-element-5762f28 e-flex e-con-boxed e-con e-child" data-id="5762f28" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bff9198 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="bff9198" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img decoding="async" width="300" height="244" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Ente.Captain-300x244.png" class="image wp-image-1346  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Ente.Captain-300x244.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/Ente.Captain.png 529w" sizes="(max-width: 300px) 100vw, 300px" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-7c05999 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="7c05999" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h2><span style="color: #993300;"><strong>What is Quackaneers?</strong></span></h2><p>My bachelor&#8217;s project <em>Quackaneers</em> is a multiplayer PC game made in Unity, where players of one team try to accumulate a larger pile of treasure within a given time than the opposing team. The team with the most treasure wins the game.</p><p>The players control pirate ducks, who can use their beaks as cannons to defeat opponents and steal their treasures. Defeated opponents are temporarily sent to prison.<br />The atmosphere is intended to be colorful, humorous, and cartoonish, aiming to create a cheerful mood.</p><h2><span style="color: #993300;"><strong>Goal</strong></span></h2><p>The main goal was to primarily, but not exclusively, <strong>enhance the visual aspects</strong> of the game. Furthermore, I aimed to create a <strong>cohesive game package</strong> with its fundamental functions being developed enough to allow for future expansion, providing more content and variety. To ensure scalability, I also focused on <strong>performance</strong> and a clear file structure.</p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-c2fdaee e-flex e-con-boxed e-con e-child" data-id="c2fdaee" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-be4b3c8 e-transform elementor-widget elementor-widget-heading" data-id="be4b3c8" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1000000000000001,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Tools</h2>		</div>
+				</div>
+		<div class="elementor-element elementor-element-f0c8ffe e-grid e-con-full e-con e-child" data-id="f0c8ffe" data-element_type="container">
+				<div class="elementor-element elementor-element-f2278a9 elementor-widget elementor-widget-video" data-id="f2278a9" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.22.0 - 26-06-2024 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%;aspect-ratio:var(--video-aspect-ratio);-o-object-fit:cover;object-fit:cover;-o-object-position:center center;object-position:center center}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-custom-embed-image-overlay{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-custom-embed-image-overlay img{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Spawn-Point-Preview-Editor-Eng.mp4" autoplay="" loop="" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b1a71f4 elementor-widget elementor-widget-text-editor" data-id="b1a71f4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: left;"><span style="text-decoration: underline;"><strong>Spawn Point Object Preview</strong></span></p><p style="text-align: left;"><strong>Problem:</strong> The islands&#8217; vegetation and treasures will be spawned randomly at the beginning. It got tedious to move around invisible spawn points when working on an island and it would be nice to test the randomization on demand without starting the game first.</p><p style="text-align: left;"><b>Solution:</b> I created a custom inspector with buttons, which let me randomize and delete a preview. The preview is automatically generated upon opening Prefab mode and deleted when going back to editing the scene.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-acdb926 e-grid e-con-full e-con e-child" data-id="acdb926" data-element_type="container">
+				<div class="elementor-element elementor-element-05d8778 elementor-widget elementor-widget-text-editor" data-id="05d8778" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong><u>Global material property editor</u></strong></p><p><strong>Problem:</strong> Lots of shaders need access to the same information or use the same settings for certain properties. Setting a bunch of properties in multiple materials for every tiny change was bothersome and inefficient.</p><p><strong>Solution:</strong> I created a custom inspector, in which each of these properties can be edited and set for each affected material in real time.<br />At first I wanted to cycle through materials, which is why you can still see them listed, however, I ended up setting global variables instead.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bf6e2a8 elementor-widget elementor-widget-video" data-id="bf6e2a8" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Material-Collection-Editor-Eng.mp4" autoplay="" loop="" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6ca80cf e-flex e-con-boxed e-con e-child" data-id="6ca80cf" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-d33f469 e-transform elementor-widget elementor-widget-heading" data-id="d33f469" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1000000000000001,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Customization</h2>		</div>
+				</div>
+		<div class="elementor-element elementor-element-ff9d577 e-grid e-con-full e-con e-child" data-id="ff9d577" data-element_type="container">
+				<div class="elementor-element elementor-element-078a313 elementor-widget elementor-widget-video" data-id="078a313" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Customize.mp4" autoplay="" loop="" controls="" muted="muted" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-deea14b elementor-widget elementor-widget-text-editor" data-id="deea14b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>To make the game more fun I implemented a customizer which lets you pick between a few different hats and an optional eyepatch. This system could easily be expanded upon.</p><p>The hats and eyepatch are named by their categories&#8217; prefix and stored in a list of their respective categories, so items of different collections can be combined. The index of each category&#8217;s selected item is saved so it is correctly loaded when restarting the game. <br /><span style="font-size: 14px; color: var( --e-global-color-1692e9f ); text-align: var(--text-align); background-color: transparent;">Working with a costume&#8217;s index instead of GameObjects also helped in the networking aspect, because GameObjects can only be sent under certain conditions. Sending the number of an item on a list which every player has on their system already is an efficient workaround. </span></p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-538ea8a e-grid e-con-full e-con e-child" data-id="538ea8a" data-element_type="container">
+				<div class="elementor-element elementor-element-5d2fd01 elementor-widget elementor-widget-text-editor" data-id="5d2fd01" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: right;"><strong>Problem:</strong> A discrepancy between the hat&#8217;s position and the ducks head&#8217;s position occured, when the duck was swimming, since the hat was parented under the head bone and copying its position from the bone&#8217;s physical, undisplaced location.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c3ab0d9 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="c3ab0d9" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img decoding="async" width="300" height="206" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/DuckPhysicalPos-300x206.png" class="image wp-image-1383  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/DuckPhysicalPos-300x206.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/DuckPhysicalPos-1024x703.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/DuckPhysicalPos-768x528.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/DuckPhysicalPos.png 1271w" sizes="(max-width: 300px) 100vw, 300px" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-2265161 elementor-widget elementor-widget-text-editor" data-id="2265161" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Solution:</strong> Exporting the hats with the duck&#8217;s skeleton and some weight paint, so it uses Unity&#8217;s <i>Skinned Mesh Renderer</i> Component and has its vertices follow the animated bones just like the duck does.</p><p>To avoid a bloated hierarchy, I had a script exchange the Skinned Mesh Renderer&#8217;s Bones for those of the duck, copied their bounds and deleted the bones that came with the hat.</p>						</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1cb4423 e-flex e-con-boxed e-con e-child" data-id="1cb4423" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-79816ec e-transform elementor-widget elementor-widget-heading" data-id="79816ec" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1000000000000001,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Animation</h2>		</div>
+				</div>
+		<div class="elementor-element elementor-element-0a6b909 e-grid e-con-full e-con e-child" data-id="0a6b909" data-element_type="container">
+		<div class="elementor-element elementor-element-410ef7d e-con-full e-flex e-con e-child" data-id="410ef7d" data-element_type="container">
+				<div class="elementor-element elementor-element-6ece186 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="6ece186" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Walk.gif" class="image wp-image-1422  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-e7d3019 elementor-widget elementor-widget-text-editor" data-id="e7d3019" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">The Walking Duck &#8211; when NavMesh Agent is moving, collision layer is &#8220;land&#8221; and grounded check is true</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-aee7a2f e-con-full e-flex e-con e-child" data-id="aee7a2f" data-element_type="container">
+				<div class="elementor-element elementor-element-16fe71b omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="16fe71b" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Swim.gif" class="image wp-image-1421  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-3058cf1 elementor-widget elementor-widget-text-editor" data-id="3058cf1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Swim &#8211; when NavMesh Agent is moving and collision layer is &#8220;water&#8221;</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-333c658 e-con-full e-flex e-con e-child" data-id="333c658" data-element_type="container">
+				<div class="elementor-element elementor-element-007c7fa omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="007c7fa" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Fly.gif" class="image wp-image-1420  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-824f3b8 elementor-widget elementor-widget-text-editor" data-id="824f3b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Fly &#8211; When exiting a collider (Land/Water) and not grounded. Also: When using the &#8220;Wings&#8221;-Item.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-f62e3ef e-con-full e-flex e-con e-child" data-id="f62e3ef" data-element_type="container">
+				<div class="elementor-element elementor-element-0c0826f omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="0c0826f" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Attack.gif" class="image wp-image-1417  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-135c51d elementor-widget elementor-widget-text-editor" data-id="135c51d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Attack &#8211; Avatar Mask + own layer in Animator makes it usable no matter the current animation. An Animation Event shoots projectiles only whenever the beak is open. This way projectiles can not be spammed.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8d18935 e-con-full e-flex e-con e-child" data-id="8d18935" data-element_type="container">
+				<div class="elementor-element elementor-element-b6085dd omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="b6085dd" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_IdleGif.gif" class="image wp-image-1416  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e41b62 elementor-widget elementor-widget-text-editor" data-id="2e41b62" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Idle &#8211; Is looping with a Fixed Exit Time. Afterwards a random clip from an Idle Blend Tree will be played. If the same clip played last time, it will choose a different one.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-618821e e-con-full e-flex e-con e-child" data-id="618821e" data-element_type="container">
+				<div class="elementor-element elementor-element-6ba7293 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="6ba7293" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Blink-Drivers.gif" class="image wp-image-1419  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-a617e75 elementor-widget elementor-widget-text-editor" data-id="a617e75" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Blinking &#8211; Blender&#8217;s Shape Keys can be read by Unity in any exported animation clips, if they are animated using a Driver.</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8d3149f e-con-full e-flex e-con e-child" data-id="8d3149f" data-element_type="container">
+				<div class="elementor-element elementor-element-7b60f30 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="7b60f30" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_001Gif.gif" class="image wp-image-1413  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-db3df05 elementor-widget elementor-widget-text-editor" data-id="db3df05" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Random Idle 1</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1600e6e e-con-full e-flex e-con e-child" data-id="1600e6e" data-element_type="container">
+				<div class="elementor-element elementor-element-b18829a omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="b18829a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_002Gif.gif" class="image wp-image-1414  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-565879e elementor-widget elementor-widget-text-editor" data-id="565879e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Random Idle 2</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-1dfa87d e-con-full e-flex e-con e-child" data-id="1dfa87d" data-element_type="container">
+				<div class="elementor-element elementor-element-629f429 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="629f429" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_003Gif.gif" class="image wp-image-1415  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+				</div>
+				<div class="elementor-element elementor-element-cdd48b6 elementor-widget elementor-widget-text-editor" data-id="cdd48b6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="font-variant-ligatures: normal; font-variant-caps: normal; font-family: Sumana, sans-serif; font-size: 14px; font-style: normal;">Random Idle 3</p>						</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5304cb4 e-con-full e-flex e-con e-child" data-id="5304cb4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-496a924 elementor-widget__width-initial elementor-widget elementor-widget-video" data-id="496a924" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/pZ_AtHnuPi0&quot;,&quot;start&quot;:1,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;modestbranding&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-12471f1 elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="12471f1" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://ricarda-wegmann.art/#concept">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="icon icon-left-arrows"></i>			</span>
+									<span class="elementor-button-text">Back</span>
+					</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+		]]></content:encoded>
+					
+		
+		<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Spawn-Point-Preview-Editor-Eng.mp4" length="65179004" type="video/mp4" />
+<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Material-Collection-Editor-Eng.mp4" length="72151493" type="video/mp4" />
+<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Customize.mp4" length="12042165" type="video/mp4" />
+
+			</item>
+		<item>
 		<title>Pioneers of Pagonia</title>
 		<link>https://ricarda-wegmann.art/pioneers-of-pagonia/</link>
 		
@@ -38,22 +294,21 @@
 		<category><![CDATA[Pioneers of Pagonia]]></category>
 		<guid isPermaLink="false">https://ricarda-wegmann.art/?p=805</guid>
 
-					<description><![CDATA[Back]]></description>
+					<description><![CDATA[Concept Art Internship I was fortunate to secure an exciting concept art internship at Envision Entertainment, where I contributed to the visual development of Volker Wertich&#8217;s latest fantasy build-up game, Pioneers of Pagonia. Wertich is renowned for creating the original &#8220;The Settlers&#8221; games. During my internship, I was responsible for character design and various illustration [&#8230;]]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="805" class="elementor elementor-805">
 				<div class="elementor-element elementor-element-9e5f32e e-con-full e-flex e-con e-parent" data-id="9e5f32e" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 				</div>
-		<div class="elementor-element elementor-element-4a11c77 e-con-full e-flex elementor-invisible e-con e-parent" data-id="4a11c77" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;}">
+		<div class="elementor-element elementor-element-4a11c77 e-con-full animated-fast e-flex elementor-invisible e-con e-parent" data-id="4a11c77" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
 				<div class="elementor-element elementor-element-6d79bda elementor-invisible elementor-widget elementor-widget-image" data-id="6d79bda" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.22.0 - 26-06-2024 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>											<a href="https://www.envision-entertainment.de/">
-							<img decoding="async" width="150" height="150" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Envision-Entertainment_Logo-150x150.png" class="elementor-animation-bob attachment-thumbnail size-thumbnail wp-image-870" alt="" />								</a>
+														<a href="https://www.envision-entertainment.de/">
+							<img loading="lazy" decoding="async" width="150" height="150" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Envision-Entertainment_Logo-150x150.png" class="elementor-animation-bob attachment-thumbnail size-thumbnail wp-image-870" alt="" />								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-f8cc45c elementor-invisible elementor-widget elementor-widget-image" data-id="f8cc45c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://pioneersofpagonia.com/index.php?lang=en-US">
-							<img decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="elementor-animation-bob attachment-medium size-medium wp-image-869" alt="" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+							<img loading="lazy" decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="elementor-animation-bob attachment-medium size-medium wp-image-869" alt="" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
 													</div>
 				</div>
 				</div>
@@ -64,36 +319,70 @@
 </svg>
 		</div>
 				</div>
-		<div class="elementor-element elementor-element-195c7a3 e-con-full e-flex e-con e-parent" data-id="195c7a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;curve&quot;,&quot;shape_divider_top_negative&quot;:&quot;yes&quot;}">
+		<div class="elementor-element elementor-element-195c7a3 e-con-full e-flex e-con e-parent" data-id="195c7a3" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;curve&quot;,&quot;shape_divider_top_negative&quot;:&quot;yes&quot;,&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
 				<div class="elementor-shape elementor-shape-top" data-negative="true">
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
 	<path class="elementor-shape-fill" d="M500,97C126.7,96.3,0.8,19.8,0,0v100l1000,0V1C1000,19.4,873.3,97.8,500,97z"/>
 </svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+				<div class="elementor-element elementor-element-f0e9cb7 elementor-widget__width-initial elementor-widget elementor-widget-elementskit-heading" data-id="f0e9cb7" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-text_left   ekit_heading_mobile-text_left ekit-heading__title-in-left">				<div class='ekit-heading__title-wrapper'>
+			<div class="ekit_heading_separetor_wraper ekit_heading_ekit_border_custom"><div class="ekit_border_custom"><img loading="lazy" decoding="async" width="519" height="234" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png" class="attachment-full size-full wp-image-869" alt="" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w" sizes="(max-width: 519px) 100vw, 519px" /></div></div>				</div>
+				<div class='ekit-heading__content-wrapper'>
+			<h3 class="ekit-heading--subtitle elementskit-section-subtitle  elementskit-style-border">
+						Concept Art Internship
+					</h3>				<div class='ekit-heading__description'>
+					<p>I was fortunate to secure an exciting concept art internship at <span style="color: #ffff99"><a style="color: #ffff99" href="https://www.envision-entertainment.de/" target="_blank" rel="noopener">Envision Entertainment</a></span>, where I contributed to the visual development of Volker Wertich's latest fantasy build-up game, <span style="color: #ffff99"> <a style="color: #ffff99" href="https://www.pioneersofpagonia.com/" target="_blank" rel="noopener">Pioneers of Pagonia</a></span>. Wertich is renowned for creating the original "The Settlers" games.</p>
+<p>During my internship, I was responsible for character design and various illustration tasks. This experience taught me a great deal about working within a production pipeline and effectively incorporating the team’s feedback. I also gained valuable insights into designing for games and adhering to a directed art style.</p>
+<p>Art Direction by Timm Schwank.</p>
+<p>This was a compulsory internship for my degree which took place over 19 weeks from 09/22 - 01/23.</p>
+				</div>
+							</div>
+			</div></div>		</div>
+				</div>
 		<div class="elementor-element elementor-element-f0c8ffe e-grid e-con-boxed e-con e-child" data-id="f0c8ffe" data-element_type="container">
 					<div class="e-con-inner">
-				<div class="elementor-element elementor-element-9b042c0 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="9b042c0" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-21abdf6 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="21abdf6" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img fetchpriority="high" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png" class="image wp-image-896  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
-				</div>
-				<div class="elementor-element elementor-element-8e1bd55 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="8e1bd55" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
-				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png" class="image wp-image-878  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1193"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png" class="image wp-image-851  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7b36c4b omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="7b36c4b" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png" class="image wp-image-877  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1120"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png" class="image wp-image-877  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/digger_f_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e1bd55 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="8e1bd55" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1142"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png" class="image wp-image-878  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/miner_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b8622a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="6b8622a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1200"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2-300x199.png" class="image wp-image-1149  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/carrier_m_thumbnail_2.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-acc683d omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="acc683d" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1206"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png" class="image wp-image-855  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
 				<div class="elementor-element elementor-element-cbbb9b3 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="cbbb9b3" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png" class="image wp-image-876  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1220"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png" class="image wp-image-876  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/builder_m_thumbnail-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c5a5ec2 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="c5a5ec2" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1231"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png" class="image wp-image-853  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
 				<div class="elementor-element elementor-element-ef669db omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ef669db" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png" class="image wp-image-875  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1239"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png" class="image wp-image-875  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/adventurer_m_thumbnail_2-1.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
-				<div class="elementor-element elementor-element-ede946a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ede946a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-9b042c0 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="9b042c0" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="image wp-image-869  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1081"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png" class="image wp-image-896  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/bandit_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5bdcf4c omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="5bdcf4c" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
@@ -101,33 +390,66 @@
 				</div>
 				<div class="elementor-element elementor-element-3c5ac4e omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="3c5ac4e" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="135" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png" class="image wp-image-869  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo-300x135.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/Pioneers-of-Pagonia_Logo.png 519w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png" class="image wp-image-1160  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" />		</div>
 				</div>
-				<div class="elementor-element elementor-element-c5a5ec2 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="c5a5ec2" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-ede946a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ede946a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png" class="image wp-image-853  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/soldier_f_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png" class="image wp-image-1160  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" />		</div>
 				</div>
-				<div class="elementor-element elementor-element-6b8622a omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="6b8622a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-c2e3c2f omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="c2e3c2f" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-300x199.png" class="image wp-image-849  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/carrier_m_thumbnail_2.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1248"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail-300x199.png" class="image wp-image-1152  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_female_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
-				<div class="elementor-element elementor-element-acc683d omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="acc683d" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-e73c2cc omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="e73c2cc" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png" class="image wp-image-855  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/tanner_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1257"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail-300x199.png" class="image wp-image-1153  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/faces_male_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
 				</div>
-				<div class="elementor-element elementor-element-21abdf6 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="21abdf6" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-7b45ae3 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="7b45ae3" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
 				<div class="elementor-widget-container">
-			<a href="#omw-1028"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png" class="image wp-image-851  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/07/fisher_m_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+			<a href="#omw-1262"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail-300x199.png" class="image wp-image-1154  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_female_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e405cac omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="e405cac" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1268"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail-300x199.png" class="image wp-image-1155  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/hair_male_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2f15a70 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="2f15a70" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1274"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail-300x199.png" class="image wp-image-1156  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_011_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-040e53f omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="040e53f" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1288"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail-300x199.png" class="image wp-image-1157  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_013_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-70534f0 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="70534f0" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1292"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail-300x199.png" class="image wp-image-1158  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/PNG_conc_annaouncment_poses_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ae6d186 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="ae6d186" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1297"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail-300x199.png" class="image wp-image-1151  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/announcment_composition_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-982503c omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="982503c" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<a href="#omw-1302"><img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail-300x199.png" class="image wp-image-1159  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/rabbit_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" /></a>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d995ce5 omw-open-modal elementor-widget elementor-widget-wp-widget-media_image" data-id="d995ce5" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-widget-container">
+			<img loading="lazy" decoding="async" width="300" height="199" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png" class="image wp-image-1160  attachment-medium size-medium" alt="" style="max-width: 100%; height: auto;" srcset="https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-300x199.png 300w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1024x681.png 1024w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-768x511.png 768w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail-1536x1021.png 1536w, https://ricarda-wegmann.art/wp-content/uploads/2024/08/comingSoon_thumbnail.png 1796w" sizes="(max-width: 300px) 100vw, 300px" />		</div>
 				</div>
 					</div>
 				</div>
-				<div class="elementor-element elementor-element-820dfb9 elementor-widget elementor-widget-elementskit-button" data-id="820dfb9" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-element elementor-element-12471f1 elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="12471f1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
-			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
-							<a href="https://ricarda-wegmann.art/#concept" class="elementskit-btn  whitespace--normal" id="">
-					<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-left" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M8 256c0 137 111 248 248 248s248-111 248-248S393 8 256 8 8 119 8 256zm448 0c0 110.5-89.5 200-200 200S56 366.5 56 256 145.5 56 256 56s200 89.5 200 200zm-72-20v40c0 6.6-5.4 12-12 12H256v67c0 10.7-12.9 16-20.5 8.5l-99-99c-4.7-4.7-4.7-12.3 0-17l99-99c7.6-7.6 20.5-2.2 20.5 8.5v67h116c6.6 0 12 5.4 12 12z"></path></svg>Back				</a>
-					</div>
-        </div>		</div>
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://ricarda-wegmann.art/#concept">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<i aria-hidden="true" class="icon icon-left-arrows"></i>			</span>
+									<span class="elementor-button-text">Back</span>
+					</span>
+					</a>
+		</div>
+				</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-f703edd e-flex e-con-boxed e-con e-parent" data-id="f703edd" data-element_type="container">
