@@ -12,7 +12,7 @@
 	<atom:link href="https://ricarda-wegmann.art/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ricarda-wegmann.art/</link>
 	<description>Ricarda Wegmann &#124; Yumenoki</description>
-	<lastBuildDate>Fri, 09 Aug 2024 16:56:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Aug 2024 23:07:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,9 +33,10 @@
 		
 		<dc:creator><![CDATA[Yume]]></dc:creator>
 		<pubDate>Wed, 07 Aug 2024 15:30:06 +0000</pubDate>
-				<category><![CDATA[Concept]]></category>
-		<category><![CDATA[Internship]]></category>
-		<category><![CDATA[Pioneers of Pagonia]]></category>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Bachelor]]></category>
+		<category><![CDATA[Quackaneers]]></category>
+		<category><![CDATA[Unity]]></category>
 		<guid isPermaLink="false">https://ricarda-wegmann.art/?p=1327</guid>
 
 					<description><![CDATA[What is Quackaneers? My bachelor&#8217;s project Quackaneers is a multiplayer PC game made in Unity, where players of one team try to accumulate a larger pile of treasure within a given time than the opposing team. The team with the most treasure wins the game. The players control pirate ducks, who can use their beaks [&#8230;]]]></description>
@@ -160,9 +161,9 @@
 				</div>
 		<div class="elementor-element elementor-element-0a6b909 e-grid e-con-full e-con e-child" data-id="0a6b909" data-element_type="container">
 		<div class="elementor-element elementor-element-410ef7d e-con-full e-flex e-con e-child" data-id="410ef7d" data-element_type="container">
-				<div class="elementor-element elementor-element-6ece186 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="6ece186" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-e3c64e6 elementor-widget elementor-widget-image" data-id="e3c64e6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Walk.gif" class="image wp-image-1422  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Walk.gif" class="attachment-large size-large wp-image-1422" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-e7d3019 elementor-widget elementor-widget-text-editor" data-id="e7d3019" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -170,9 +171,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-aee7a2f e-con-full e-flex e-con e-child" data-id="aee7a2f" data-element_type="container">
-				<div class="elementor-element elementor-element-16fe71b omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="16fe71b" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-cc60327 elementor-widget elementor-widget-image" data-id="cc60327" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Swim.gif" class="image wp-image-1421  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Swim.gif" class="attachment-large size-large wp-image-1421" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-3058cf1 elementor-widget elementor-widget-text-editor" data-id="3058cf1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -180,9 +181,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-333c658 e-con-full e-flex e-con e-child" data-id="333c658" data-element_type="container">
-				<div class="elementor-element elementor-element-007c7fa omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="007c7fa" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-5ceb7c2 elementor-widget elementor-widget-image" data-id="5ceb7c2" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Fly.gif" class="image wp-image-1420  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Fly.gif" class="attachment-large size-large wp-image-1420" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-824f3b8 elementor-widget elementor-widget-text-editor" data-id="824f3b8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -190,9 +191,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-f62e3ef e-con-full e-flex e-con e-child" data-id="f62e3ef" data-element_type="container">
-				<div class="elementor-element elementor-element-0c0826f omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="0c0826f" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-363c406 elementor-widget elementor-widget-image" data-id="363c406" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Attack.gif" class="image wp-image-1417  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Attack.gif" class="attachment-large size-large wp-image-1417" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-135c51d elementor-widget elementor-widget-text-editor" data-id="135c51d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -200,9 +201,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-8d18935 e-con-full e-flex e-con e-child" data-id="8d18935" data-element_type="container">
-				<div class="elementor-element elementor-element-b6085dd omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="b6085dd" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-230b0e4 elementor-widget elementor-widget-image" data-id="230b0e4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_IdleGif.gif" class="image wp-image-1416  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_IdleGif.gif" class="attachment-large size-large wp-image-1416" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-2e41b62 elementor-widget elementor-widget-text-editor" data-id="2e41b62" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -210,9 +211,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-618821e e-con-full e-flex e-con e-child" data-id="618821e" data-element_type="container">
-				<div class="elementor-element elementor-element-6ba7293 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="6ba7293" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-2b9194b elementor-widget elementor-widget-image" data-id="2b9194b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Blink-Drivers.gif" class="image wp-image-1419  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Blink-Drivers.gif" class="attachment-large size-large wp-image-1419" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-a617e75 elementor-widget elementor-widget-text-editor" data-id="a617e75" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -220,9 +221,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-8d3149f e-con-full e-flex e-con e-child" data-id="8d3149f" data-element_type="container">
-				<div class="elementor-element elementor-element-7b60f30 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="7b60f30" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-5ed3e10 elementor-widget elementor-widget-image" data-id="5ed3e10" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_001Gif.gif" class="image wp-image-1413  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_001Gif.gif" class="attachment-large size-large wp-image-1413" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-db3df05 elementor-widget elementor-widget-text-editor" data-id="db3df05" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -230,9 +231,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-1600e6e e-con-full e-flex e-con e-child" data-id="1600e6e" data-element_type="container">
-				<div class="elementor-element elementor-element-b18829a omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="b18829a" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-ee9d842 elementor-widget elementor-widget-image" data-id="ee9d842" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_002Gif.gif" class="image wp-image-1414  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_002Gif.gif" class="attachment-large size-large wp-image-1414" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-565879e elementor-widget elementor-widget-text-editor" data-id="565879e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -240,9 +241,9 @@
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-1dfa87d e-con-full e-flex e-con e-child" data-id="1dfa87d" data-element_type="container">
-				<div class="elementor-element elementor-element-629f429 omw-open-modal elementor-widget__width-initial elementor-widget elementor-widget-wp-widget-media_image" data-id="629f429" data-element_type="widget" data-widget_type="wp-widget-media_image.default">
+				<div class="elementor-element elementor-element-8bbc57c elementor-widget elementor-widget-image" data-id="8bbc57c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_003Gif.gif" class="image wp-image-1415  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" />		</div>
+													<img loading="lazy" decoding="async" width="240" height="240" src="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Animation_Idle_003Gif.gif" class="attachment-large size-large wp-image-1415" alt="" />													</div>
 				</div>
 				<div class="elementor-element elementor-element-cdd48b6 elementor-widget elementor-widget-text-editor" data-id="cdd48b6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -253,6 +254,10 @@
 					</div>
 				</div>
 		<div class="elementor-element elementor-element-5304cb4 e-con-full e-flex e-con e-child" data-id="5304cb4" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-bb61583 e-transform elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="bb61583" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1000000000000001,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Demonstration</h2>		</div>
+				</div>
 				<div class="elementor-element elementor-element-496a924 elementor-widget__width-initial elementor-widget elementor-widget-video" data-id="496a924" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/pZ_AtHnuPi0&quot;,&quot;start&quot;:1,&quot;autoplay&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;modestbranding&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-open-inline">
@@ -263,10 +268,8 @@
 				<div class="elementor-element elementor-element-12471f1 elementor-align-center elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="12471f1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://localhost:10004/#concept">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://ricarda-wegmann.art/#games">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon">
-				<i aria-hidden="true" class="icon icon-left-arrows"></i>			</span>
 									<span class="elementor-button-text">Back</span>
 					</span>
 					</a>
@@ -278,10 +281,7 @@
 		]]></content:encoded>
 					
 		
-		<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Spawn-Point-Preview-Editor-Eng.mp4" length="65179004" type="video/mp4" />
-<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Material-Collection-Editor-Eng.mp4" length="72151493" type="video/mp4" />
-<enclosure url="https://ricarda-wegmann.art/wp-content/uploads/2024/08/Customize.mp4" length="12042165" type="video/mp4" />
-
+		
 			</item>
 		<item>
 		<title>Pioneers of Pagonia</title>
