@@ -1,0 +1,197 @@
+
+						@font-face {
+							font-family: 'amethysta';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Amethysta/amethysta-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'average';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Average Sans/average-sans-400-normal0.woff2') format('woff2');
+							font-weight: sans;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'average';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Average Sans/average-sans-400-normal1.woff2') format('woff2');
+							font-weight: sans;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal2.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal3.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal3;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal4.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal4;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal5.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal5;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal6.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal6;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal7.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal7;
+						}
+						
+						@font-face {
+							font-family: 'roboto';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Roboto/roboto-400-normal8.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal8;
+						}
+						
+						@font-face {
+							font-family: 'silkscreen';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Silkscreen/silkscreen-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'silkscreen';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Silkscreen/silkscreen-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'smooch';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Smooch Sans/smooch-sans-400-normal0.woff2') format('woff2');
+							font-weight: sans;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'smooch';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Smooch Sans/smooch-sans-400-normal1.woff2') format('woff2');
+							font-weight: sans;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'smooch';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Smooch Sans/smooch-sans-400-normal2.woff2') format('woff2');
+							font-weight: sans;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'sulphur';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Sulphur Point/sulphur-point-400-normal0.woff2') format('woff2');
+							font-weight: point;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'sulphur';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Sulphur Point/sulphur-point-400-normal1.woff2') format('woff2');
+							font-weight: point;
+							font-style: 400;
+						}
+						
+						@font-face {
+							font-family: 'sumana';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Sumana/sumana-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'sumana';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Sumana/sumana-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'sumana';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Sumana/sumana-400-normal2.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal2;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-200-normal0.woff2') format('woff2');
+							font-weight: 200;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-200-normal1.woff2') format('woff2');
+							font-weight: 200;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-300-normal0.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-300-normal1.woff2') format('woff2');
+							font-weight: 300;
+							font-style: normal1;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-400-normal0.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal0;
+						}
+						
+						@font-face {
+							font-family: 'urbanist';
+							src: url('https://ricarda-wegmann.art/wp-content/bcf-fonts/Urbanist/urbanist-400-normal1.woff2') format('woff2');
+							font-weight: 400;
+							font-style: normal1;
+						}
+						
