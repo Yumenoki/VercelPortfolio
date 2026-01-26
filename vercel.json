@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/wp-content/bcf-fonts/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "https://ricarda-wegmann.art"
+        }
+      ]
+    }
+  ]
+}
